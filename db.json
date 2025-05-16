@@ -35,112 +35,112 @@
       "categoryId": 1,
       "situationName": "Missing Family Dinner",
       "situationDescription": "You need a reason for skipping a family meal.",
-      "photoUrl": "https://images.unsplash.com/photo-1606659894125-40824878b6ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "photoUrl": "https://images.unsplash.com/photo-1606659894125-40824878b6ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 105,
       "categoryId": 1,
       "situationName": "Forgot Important Birthday",
       "situationDescription": "You forgot someone’s birthday and need an excuse.",
-      "photoUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1609530180421-df41188eb3de?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 110,
       "categoryId": 1,
       "situationName": "Skipping Weekend Visitation",
       "situationDescription": "You need to cancel your scheduled weekend visit with relatives.",
-      "photoUrl": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1722341106144-3c56059488cb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 102,
       "categoryId": 2,
       "situationName": "Argument with Partner",
       "situationDescription": "You need to delay or avoid a tough relationship conversation.",
-      "photoUrl": "https://images.unsplash.com/photo-1517502166878-35c93a0072bb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1582578598774-a377d4b32223?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 115,
       "categoryId": 2,
       "situationName": "Cancelling Date Night",
       "situationDescription": "You need to call off your planned date night.",
-      "photoUrl": "https://images.unsplash.com/photo-1517260917804-95dc088a789d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1698614082118-8e6eaecb08ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 103,
       "categoryId": 3,
       "situationName": "Project Deadline Missed",
       "situationDescription": "You can’t finish your work project by the deadline.",
-      "photoUrl": "https://images.unsplash.com/photo-1615309878310-8f9ebcc5049b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1586943759207-dc5640be1bb7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 106,
       "categoryId": 3,
       "situationName": "Missed Early Morning Meeting",
       "situationDescription": "You overslept and missed a work meeting.",
-      "photoUrl": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1569791400985-b25da491f5e7?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 120,
       "categoryId": 3,
       "situationName": "Unexpected Overtime Needed",
       "situationDescription": "You need to stay late at work on short notice.",
-      "photoUrl": "https://images.unsplash.com/photo-1581091870625-86e3d8b58603?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1591144670842-ac7c69216bec?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 104,
       "categoryId": 4,
       "situationName": "Late Loan Payment",
       "situationDescription": "You missed paying back a financial loan on time.",
-      "photoUrl": "https://images.unsplash.com/photo-1587614382346-ac06f89f9ca4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 125,
       "categoryId": 5,
       "situationName": "Doctor Appointment Rescheduled",
       "situationDescription": "You need to postpone your medical appointment.",
-      "photoUrl": "https://images.unsplash.com/photo-1617056599121-58f9b4f5bdb7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1631507623095-c710d184498f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 201,
       "categoryId": 5,
       "situationName": "Overdraft Fee Applied",
       "situationDescription": "You got hit with an overdraft fee and need to explain.",
-      "photoUrl": "https://images.unsplash.com/photo-1580281658629-235c5ece56f8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1634038971336-9c105b3116e7?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 205,
       "categoryId": 5,
       "situationName": "Forgot Medication",
       "situationDescription": "You skipped your daily prescription and need to explain to your doctor.",
-      "photoUrl": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1669139185410-fd0e641de165?q=80&w=1995&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 301,
       "categoryId": 6,
       "situationName": "Flight Delay",
       "situationDescription": "Your flight was delayed and you need to notify someone.",
-      "photoUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1421789497144-f50500b5fcf0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 305,
       "categoryId": 6,
       "situationName": "Lost Luggage",
       "situationDescription": "Your baggage didn’t arrive—explaining why you’re unprepared.",
-      "photoUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1570562780400-b412adf12b40?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 401,
       "categoryId": 7,
       "situationName": "Missed Assignment Deadline",
       "situationDescription": "You didn’t submit your homework on time.",
-      "photoUrl": "https://images.unsplash.com/photo-1600164256252-6b2b3cd92bf8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 405,
       "categoryId": 7,
       "situationName": "Late to Class",
       "situationDescription": "You arrived late to your lecture.",
-      "photoUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"
+      "photoUrl": "https://images.unsplash.com/photo-1690079374922-7f50d5c1a102?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ],
   "excuses": [
@@ -725,24 +725,24 @@
       ]
     },
     {
-      "id": 60,
-      "situationId": 103,
       "excuseDescription": "Technical blockers came up unexpectedly — I’ll need a brief extension to deliver quality work.",
-      "format": "Email",
+      "format": "Text",
       "characteristics": [
         "Corporate",
         "Professional"
-      ]
+      ],
+      "situationId": 103,
+      "id": 60
     },
     {
-      "id": 61,
-      "situationId": 103,
-      "excuseDescription": "My laptop crashed last night and corrupted critical files. I’m working on recovery.",
+      "excuseDescription": "My laptop crashed last night and corrupted critical files. I’m working on recovery",
       "format": "Slack",
       "characteristics": [
         "Realistic",
         "Technical"
-      ]
+      ],
+      "situationId": 103,
+      "id": 61
     },
     {
       "id": 62,
