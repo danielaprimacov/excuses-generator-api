@@ -59,6 +59,13 @@
       "photoUrl": "https://images.unsplash.com/photo-1582578598774-a377d4b32223?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
+      "id": 107,
+      "categoryId": 2,
+      "situationName": "Forgot Anniversary Date",
+      "situationDescription": "You completely forgot your relationship anniversary and didn't make any plans to celebrate.",
+      "photoUrl": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
       "id": 115,
       "categoryId": 2,
       "situationName": "Cancelling Date Night",
@@ -92,6 +99,20 @@
       "situationName": "Late Loan Payment",
       "situationDescription": "You missed paying back a financial loan on time.",
       "photoUrl": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 132,
+      "categoryId": 4,
+      "situationName": "Overdrawn Checking Account",
+      "situationDescription": "You accidentally spent more than your checking account balance, triggering overdraft fees.",
+      "photoUrl": "https://images.unsplash.com/photo-1603940516962-4976f0d44a19?q=80&w=2013&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 136,
+      "categoryId": 4,
+      "situationName": "Credit Card Declined",
+      "situationDescription": "Your credit card was declined at the store due to a suspected fraud hold.",
+      "photoUrl": "https://images.unsplash.com/photo-1673837552412-d83ac2f7f2cc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 125,
@@ -2003,6 +2024,216 @@
         "Funny",
         "Not Suspicious"
       ]
-    }
+    },
+    {
+        "id": 187,
+        "situationId": 132,
+        "excuseDescription": "My company’s payroll system glitched and my salary deposit was delayed—I just got the funds this morning.",
+        "format": "Phone Call",
+        "characteristics": ["Believable", "Not Suspicious"]
+      },
+      {
+        "id": 188,
+        "situationId": 132,
+        "excuseDescription": "I was hit with an unexpected medical bill yesterday and had to sort that first before transferring the loan payment.",
+        "format": "Text",
+        "characteristics": ["Apologetic", "Believable"]
+      },
+      {
+        "id": 189,
+        "situationId": 132,
+        "excuseDescription": "My bank app crashed right at the moment I tried to pay; it finally worked after their support rebooted their servers.",
+        "format": "Email",
+        "characteristics": ["Technical", "Not Suspicious", "Funny"]
+      },
+      {
+        "id": 190,
+        "situationId": 132,
+        "excuseDescription": "There was a fraud alert freeze on my account—I had to verify several transactions before I could release the payment.",
+        "format": "SMS",
+        "characteristics": ["Valid Reason", "Responsible"]
+      },
+      {
+        "id": 191,
+        "situationId": 132,
+        "excuseDescription": "I was traveling abroad and my bank blocked the transfer for security; I’ve just authorized it now.",
+        "format": "Phone Call",
+        "characteristics": ["Unexpected", "Not Suspicious"]
+      },
+      {
+        "id": 192,
+        "situationId": 132,
+        "excuseDescription": "My roommate accidentally used the money I set aside for the loan—I've already covered it and it’s going out today.",
+        "format": "Slack",
+        "characteristics": ["Honest", "Apologetic", "Funny"]
+      },
+      {
+        "id": 193,
+        "situationId": 132,
+        "excuseDescription": "My internet was down all day due to a local outage—couldn’t access online banking until just now.",
+        "format": "Text",
+        "characteristics": ["Believable", "Not Suspicious"]
+      },
+      {
+        "id": 194,
+        "situationId": 132,
+        "excuseDescription": "I misread the due date on my calendar—totally my mistake, and the payment is processing as we speak.",
+        "format": "Email",
+        "characteristics": ["Apologetic", "Responsible", "Funny"]
+      },
+      {
+        "id": 195,
+        "situationId": 132,
+        "excuseDescription": "I was waiting on a small tax refund to cover the last bit of the payment—it arrived today and I cleared the loan.",
+        "format": "Text",
+        "characteristics": ["Valid Reason", "Not Suspicious"]
+      },
+      {
+        "id": 196,
+        "situationId": 132,
+        "excuseDescription": "My co-signer and I had a miscommunication on who was supposed to pay today—it's settled now and payment is on its way.",
+        "format": "SMS",
+        "characteristics": ["Believable", "Apologetic"]
+      },
+      {
+        "id": 197,
+        "situationId": 136,
+        "excuseDescription": "The terminal had a software update in the middle of my purchase and the chip wouldn't read until it rebooted.",
+        "format": "Phone Call",
+        "characteristics": ["Technical", "Not Suspicious"]
+      },
+      {
+        "id": 198,
+        "situationId": 136,
+        "excuseDescription": "My card’s magnetic stripe got demagnetized when my phone speaker was in my wallet pocket overnight.",
+        "format": "Slack",
+        "characteristics": ["Technical", "Funny"]
+      },
+      {
+        "id": 199,
+        "situationId": 136,
+        "excuseDescription": "I accidentally left my travel notice on for Europe instead of switching back to domestic, so my bank flagged the transaction.",
+        "format": "Email",
+        "characteristics": ["Valid Reason", "Not Suspicious"]
+      },
+      {
+        "id": 200,
+        "situationId": 136,
+        "excuseDescription": "I was on a call with my bank’s fraud department about another charge and they paused my card for my own protection—just got it reactivated.",
+        "format": "Phone Call",
+        "characteristics": ["Responsible", "Apologetic"]
+      },
+      {
+        "id": 201,
+        "situationId": 136,
+        "excuseDescription": "My toddler thought my wallet was a coloring book and drew all over my card, making it unreadable—sorry about that!",
+        "format": "Text",
+        "characteristics": ["Funny", "Apologetic"]
+      },
+      {
+        "id": 202,
+        "situationId": 136,
+        "excuseDescription": "I forgot to notify my bank after cancelling a subscription with the same merchant name, so they thought this purchase was suspicious.",
+        "format": "SMS",
+        "characteristics": ["Believable", "Responsible"]
+      },
+      {
+        "id": 203,
+        "situationId": 136,
+        "excuseDescription": "The store’s chip reader was misaligned; I had to try three times and only succeeded when I switched to the other register.",
+        "format": "Phone Call",
+        "characteristics": ["Technical", "Believable"]
+      },
+      {
+        "id": 204,
+        "situationId": 136,
+        "excuseDescription": "I had just canceled a recurring payment to a similarly named vendor, so my bank froze this one thinking it was fraudulent.",
+        "format": "Phone Call",
+        "characteristics": ["Valid Reason", "Not Suspicious"]
+      },
+      {
+        "id": 205,
+        "situationId": 136,
+        "excuseDescription": "I grabbed my expired card by mistake, tried to pay, and only realized after it declined that I needed the new one.",
+        "format": "Slack",
+        "characteristics": ["Embarrassed", "Funny"]
+      },
+      {
+        "id": 206,
+        "situationId": 136,
+        "excuseDescription": "I set my daily spending limit too low in my banking app and this purchase went just over the threshold.",
+        "format": "Emil",
+        "characteristics": ["Responsible", "Apologetic"]
+      },
+      {
+        "id": 207,
+        "situationId": 107,
+        "excuseDescription": "I accidentally booked an important work meeting in our time slot—just got it moved!",
+        "format": "Text",
+        "characteristics": ["Apologetic", "Believable"]
+        },
+        {
+          "id": 208,
+          "situationId": 107,
+          "excuseDescription": "My phone’s calendar glitched and deleted the reminder—it just pinged me now.",
+          "format": "Phone Call",
+          "characteristics": ["Technical", "Funny"]
+        },
+        {
+          "id": 209,
+          "situationId": 107,
+          "excuseDescription": "I thought we agreed on a low-key dinner tonight, not last night; my bad on the date mix-up.",
+          "format": "Text",
+          "characteristics": ["Embarrassed", "Funny"]
+        },
+        {
+          "id": 210,
+          "situationId": 107,
+          "excuseDescription": "My fitness tracker battery died and it resets my anniversaries like a stubborn toddler.",
+          "format": "Slack",
+          "characteristics": ["Funny", "Not Suspicious"]
+        },
+        {
+          "id": 211,
+          "situationId": 107,
+          "excuseDescription": "I saw a shooting star and made a wish, but I wished for more time to plan, not to forget!",
+          "format": "SMS",
+          "characteristics": ["Playful", "Funny"]
+        },
+        {
+          "id": 212,
+          "situationId": 107,
+          "excuseDescription": "Google Maps sent me to the wrong restaurant for our date; I just realized the mix-up.",
+          "format": "Email",
+          "characteristics": ["Believable", "Apologetic"]
+        },
+        {
+          "id": 213,
+          "situationId": 107,
+          "excuseDescription": "My roommate threw away the flowers I bought; they looked suspiciously wilted in the fridge.",
+          "format": "Text",
+          "characteristics": ["Funny", "Honest"]
+        },
+        {
+          "id": 214,
+          "situationId": 107,
+          "excuseDescription": "I was convinced I already sent your gift; turns out it’s still in my drafts folder.",
+          "format": "Phone Call",
+          "characteristics": ["Embarrassed", "Believable"]
+        },
+        {
+          "id": 215,
+          "situationId": 107,
+          "excuseDescription": "My dog hid the card I wrote for you—he thought it was a chew toy.",
+          "format": "Slack",
+          "characteristics": ["Funny", "Cute"]
+        },
+        {
+          "id": 216,
+          "situationId": 107,
+          "excuseDescription": "I had you on “one day beyond” in my head thanks to leap year confusion—clearly I miscalculated.",
+          "format": "Slack",
+          "characteristics": ["Funny", "Apologetic"]
+        }
   ]
 }
