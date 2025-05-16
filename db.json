@@ -2235,5 +2235,87 @@
           "format": "Slack",
           "characteristics": ["Funny", "Apologetic"]
         }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userName": "AliceW",
+      "excuseId": 3,
+      "rating": 5,
+      "comment": "This text excuse about being under the weather was spot-on—empathetic and believable!",
+      "date": "2025-05-14T10:32:00Z"
+    },
+    {
+      "id": 2,
+      "userName": "Bob_Smith",
+      "excuseId": 7,
+      "rating": 4,
+      "comment": "The quick one-liner for skipping a meeting was concise and funny. Loved the playful tone!",
+      "date": "2025-05-12T08:15:30Z"
+    },
+    {
+      "id": 3,
+      "userName": "Carla89",
+      "excuseId": 12,
+      "rating": 3,
+      "comment": "The photo-based excuse worked OK, but felt a bit over the top for my boss.",
+      "date": "2025-05-10T14:05:12Z"
+    },
+    {
+      "id": 4,
+      "userName": "DavidLee",
+      "excuseId": 5,
+      "rating": 2,
+      "comment": "The tone was too formal for a family dinner—needed something more casual.",
+      "date": "2025-05-08T19:47:00Z"
+    },
+    {
+      "id": 5,
+      "userName": "Emma_J",
+      "excuseId": 2,
+      "rating": 5,
+      "comment": "Perfect! The brief text format excuse for missing a workout was realistic and saved me.",
+      "date": "2025-05-07T16:22:45Z"
+    },
+    {
+      "id": 6,
+      "userName": "FrankG",
+      "excuseId": 9,
+      "rating": 1,
+      "comment": "The image excuse fell flat—my audience didn’t get the point and asked questions instead.",
+      "date": "2025-05-05T11:11:11Z"
+    },
+    {
+      "id": 7,
+      "userName": "GraceH",
+      "excuseId": 15,
+      "rating": 4,
+      "comment": "Loved the empathetic tone in this text excuse for missing class. Felt natural.",
+      "date": "2025-05-03T09:30:00Z"
+    },
+    {
+      "id": 8,
+      "userName": "HenryK",
+      "excuseId": 4,
+      "rating": 3,
+      "comment": "Funny format, but the silly tone didn’t fit my manager’s style.",
+      "date": "2025-05-01T21:05:33Z"
+    },
+    {
+      "id": 9,
+      "userName": "IsabelZ",
+      "excuseId": 11,
+      "rating": 5,
+      "comment": "The text-only excuse for a doctor’s appointment was clear, polite, and exactly what I needed.",
+      "date": "2025-04-28T13:47:20Z"
+    },
+    {
+      "id": 10,
+      "userName": "Jack_M",
+      "excuseId": 8,
+      "rating": 4,
+      "comment": "Good mix of humor and brevity—this GIF-style excuse got a laugh and got me out early.",
+      "date": "2025-04-25T17:00:00Z"
+    }
   ]
 }
